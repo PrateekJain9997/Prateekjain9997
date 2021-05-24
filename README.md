@@ -49,15 +49,15 @@
  
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrateekJain999&layout=compact&hide=html&theme=jolly" alt="PrateekJain999" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=PrateekJain9997&layout=compact&hide=html&theme=jolly" alt="PrateekJain9997" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">🐦 Top Languages </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekJain999&layout=compact&hide=html&theme=jolly" alt="PrateekJain999" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekJain9997&layout=compact&hide=html&theme=jolly" alt="PrateekJain9997" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">🐦 Longest Streak </h2>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekjain999&layout=compact&hide=html&theme=jolly" alt="prateekjain999" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekjain9997&layout=compact&hide=html&theme=jolly" alt="prateekjain9997" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
